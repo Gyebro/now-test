@@ -1,0 +1,16 @@
+Mini-Report:
+ValidIntegers (n = 0-100) 
+	0: CLIENT_ERROR
+	3: NOT_PRIME
+	25-100: extra delay a válaszadáskor, kb n*100 msec +- random érték
+LargeIntegers (n > 100)
+	Szerver meghal
+NegativeIntegers (n < 0)
+	Szerver meghal
+FloatingPoint ("7.01")
+	Szerver meghal
+HelloString ("HelloWorld")
+	Szerver meghal
+Viselkedés függése a porttól
+	Nem vizsgáltam
+	

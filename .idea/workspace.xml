@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="primetester" targetName="primetester" />
+      <config projectName="primetester" targetName="gtest-external" />
+      <config projectName="primetester" targetName="automated-tests" />
+      <config projectName="primetester" targetName="gtest-download" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e975afc-2588-40cb-9f63-52cc48fafb33" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/test.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/automated-tests/CMakeLists.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/automated-tests/prime_server_tests.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gtest-external/CMakeLists.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/main.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mini-report.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/primeService.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server.cfg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tcpconnection.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tcpconnection.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test-results/Test Results - ValidIntegers-PrimeServerTestInt.html" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/automated-tests/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/tcpconnection.cpp" />
+        <option value="$PROJECT_DIR$/tcpconnection.h" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/automated-tests/prime_server_tests.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="primetester" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="now-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primetester" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="now-test" type="462c0819:PsiDirectoryNode" />
+              <item name="automated-tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primetester" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="now-test" type="462c0819:PsiDirectoryNode" />
+              <item name="gtest-external" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Google Test.automated-tests">
+    <configuration name="PrimeServerTest.FloatingPoint" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="primetester" TARGET_NAME="automated-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="primetester" RUN_TARGET_NAME="automated-tests" TEST_CLASS="PrimeServerTest" TEST_METHOD="FloatingPoint" TEST_MODE="SUITE_TEST">
+      <envs />
+    </configuration>
+    <configuration name="PrimeServerTest.RepeatedNormal" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="primetester" TARGET_NAME="automated-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="primetester" RUN_TARGET_NAME="automated-tests" TEST_CLASS="PrimeServerTest" TEST_METHOD="RepeatedNormal" TEST_MODE="SUITE_TEST">
+      <envs />
+    </configuration>
+    <configuration name="PrimeServerTest.RepeatedNotPrime" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="primetester" TARGET_NAME="automated-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="primetester" RUN_TARGET_NAME="automated-tests" TEST_CLASS="PrimeServerTest" TEST_METHOD="RepeatedNotPrime" TEST_MODE="SUITE_TEST">
+      <envs />
+    </configuration>
+    <configuration name="PrimeServerTest.RepeatedPrime" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="primetester" TARGET_NAME="automated-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="primetester" RUN_TARGET_NAME="automated-tests" TEST_CLASS="PrimeServerTest" TEST_METHOD="RepeatedPrime" TEST_MODE="SUITE_TEST">
+      <envs />
+    </configuration>
+    <configuration name="PrimeServerTest.String" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="primetester" TARGET_NAME="automated-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="primetester" RUN_TARGET_NAME="automated-tests" TEST_CLASS="PrimeServerTest" TEST_METHOD="String" TEST_MODE="SUITE_TEST">
+      <envs />
+    </configuration>
+    <configuration name="ValidIntegers-PrimeServerTestInt" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="primetester" TARGET_NAME="automated-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="primetester" RUN_TARGET_NAME="automated-tests" TEST_PATTERN="ValidIntegers/PrimeServerTestInt.*/*:ValidIntegers/PrimeServerTestInt/*.*" TEST_MODE="PATTERN">
+      <envs />
+    </configuration>
+    <configuration name="automated-tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="primetester" TARGET_NAME="automated-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="primetester" RUN_TARGET_NAME="automated-tests" TEST_MODE="SUITE_TEST">
+      <envs />
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="primetester" RUN_TARGET_NAME="primetester" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="gtest-download" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="primetester" TARGET_NAME="gtest-download" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="gtest-external" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="primetester" TARGET_NAME="gtest-external" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="primetester" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="primetester" TARGET_NAME="primetester" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="primetester" RUN_TARGET_NAME="primetester">
+      <envs />
+    </configuration>
+    <list size="11">
+      <item index="0" class="java.lang.String" itemvalue="Google Test.PrimeServerTest.RepeatedNotPrime" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="2" class="java.lang.String" itemvalue="Application.primetester" />
+      <item index="3" class="java.lang.String" itemvalue="Google Test.automated-tests" />
+      <item index="4" class="java.lang.String" itemvalue="Application.gtest-download" />
+      <item index="5" class="java.lang.String" itemvalue="Application.gtest-external" />
+      <item index="6" class="java.lang.String" itemvalue="Google Test.PrimeServerTest.RepeatedNormal" />
+      <item index="7" class="java.lang.String" itemvalue="Google Test.PrimeServerTest.RepeatedPrime" />
+      <item index="8" class="java.lang.String" itemvalue="Google Test.PrimeServerTest.FloatingPoint" />
+      <item index="9" class="java.lang.String" itemvalue="Google Test.PrimeServerTest.String" />
+      <item index="10" class="java.lang.String" itemvalue="Google Test.ValidIntegers-PrimeServerTestInt" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Google Test.ValidIntegers-PrimeServerTestInt" />
+        <item index="1" class="java.lang.String" itemvalue="Google Test.PrimeServerTest.String" />
+        <item index="2" class="java.lang.String" itemvalue="Google Test.PrimeServerTest.FloatingPoint" />
+        <item index="3" class="java.lang.String" itemvalue="Google Test.PrimeServerTest.RepeatedPrime" />
+        <item index="4" class="java.lang.String" itemvalue="Google Test.PrimeServerTest.RepeatedNormal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e975afc-2588-40cb-9f63-52cc48fafb33" name="Default" comment="" />
+      <created>1515071629090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515071629090</updated>
+      <workItem from="1515071630743" duration="9365000" />
+      <workItem from="1515083348220" duration="646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PrimeServerTest_String - 2018.01.04 at 17h 19m 35s.xml">
+      <configuration name="PrimeServerTest.String" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ValidIntegers-PrimeServerTestInt - 2018.01.04 at 17h 24m 44s.xml">
+      <configuration name="ValidIntegers-PrimeServerTestInt" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ValidIntegers-PrimeServerTestInt - 2018.01.04 at 17h 38m 28s.xml">
+      <configuration name="ValidIntegers-PrimeServerTestInt" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="automated-tests - 2018.01.04 at 17h 11m 28s.xml">
+      <configuration name="automated-tests" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="automated-tests - 2018.01.04 at 17h 13m 11s.xml">
+      <configuration name="automated-tests" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="automated-tests - 2018.01.04 at 17h 13m 51s.xml">
+      <configuration name="automated-tests" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="automated-tests - 2018.01.04 at 17h 23m 44s.xml">
+      <configuration name="automated-tests" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="automated-tests - 2018.01.04 at 17h 24m 27s.xml">
+      <configuration name="automated-tests" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="automated-tests - 2018.01.04 at 17h 37m 38s.xml">
+      <configuration name="automated-tests" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="automated-tests - 2018.01.04 at 17h 40m 05s.xml">
+      <configuration name="automated-tests" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10011000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20628998" sideWeight="0.49390244" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42952275" sideWeight="0.49731904" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2763596" sideWeight="0.6595174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26193118" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2701909" sideWeight="0.3941019" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.472808" sideWeight="0.60589814" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19417475" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3618202" sideWeight="0.47228146" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1652452" sideWeight="0.50609756" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Serial Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/automated-tests/prime_server_tests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automated-tests/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/mingw-w64/x86_64-5.2.0-posix-seh-rt_v4-rev0/mingw64/x86_64-w64-mingw32/include/c++/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="5327" column="0" lean-forward="false" selection-start-line="5327" selection-start-column="0" selection-end-line="5327" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/mingw-w64/x86_64-5.2.0-posix-seh-rt_v4-rev0/mingw64/x86_64-w64-mingw32/include/c++/ext/string_conversions.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcpconnection.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcpconnection.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="67" column="18" lean-forward="true" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtest-external/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automated-tests/prime_server_tests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
